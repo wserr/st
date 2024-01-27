@@ -18,6 +18,9 @@ necessary as root):
 
     make clean install
 
+101
+------------
+See [here](https://github.com/sineemore/suckless-101)
 
 Running st
 ----------
@@ -31,4 +34,3 @@ See the man page for additional details.
 Credits
 -------
 Based on Aurélien APTEL <aurelien dot aptel at gmail dot com> bt source code.
-
